@@ -26,8 +26,8 @@ use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.numeric_std.all;
 
 entity rand_4_bit is
-    Port ( clock        : in   STD_LOGIC;
-	         rand_out     : out  STD_LOGIC_VECTOR (3 downto 0));
+    Port ( 	clock        : in   STD_LOGIC;
+	    	rand_out     : out  STD_LOGIC_VECTOR (3 downto 0));
 end rand_4_bit;
 
 architecture Behavioral of rand_4_bit is
