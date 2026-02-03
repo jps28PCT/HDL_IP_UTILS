@@ -1,4 +1,4 @@
-# HDL IP UTILS
+# HDL IP Utilities
 Two VHDL IP utilities I made for other projects.
 
 <details>
